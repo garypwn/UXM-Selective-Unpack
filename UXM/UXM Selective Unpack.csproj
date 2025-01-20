@@ -69,6 +69,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\WitchyBND\SoulsFormats\SoulsFormats\SoulsFormats.csproj" />
+    <ProjectReference Include="..\WitchyBND\SoulsOodleLib\SoulsOodleLib.csproj" />
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="BouncyCastle.Cryptography" Version="2.5.0" />
