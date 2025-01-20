@@ -1,9 +1,9 @@
-﻿
+
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32421.90
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UXM Selective Unpack", "UXM\UXM Selective Unpack.csproj", "{65D1F2F7-E668-460C-860B-CA5E0A5C6DBD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UXM Selective Unpack", "UXM\UXM Selective Unpack.csproj", "{65D1F2F7-E668-460C-860B-CA5E0A5C6DBD}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoulsFormats", "WitchyBND\SoulsFormats\SoulsFormats\SoulsFormats.csproj", "{3E3596FE-8839-45EA-9C1E-9B378E80EB48}"
 EndProject
